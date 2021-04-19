@@ -1,0 +1,5 @@
+# .NET compiled files
+bin
+obj
+.vs
+node_modules
